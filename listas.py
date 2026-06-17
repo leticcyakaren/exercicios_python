@@ -31,3 +31,16 @@ print(convidados)
 
 print("\nQuantidade de convidados:")
 print(len(convidados))
+
+#Peça ao usuário que digite 5 números, armazene-os em uma lista e exiba o maior e o menor valor.
+
+numeros = []
+contador = 5
+
+while contador >0:
+    num = int(input("digite um numero: "))
+    numeros.append(num)
+    contador = contador - 1
+
+print (max(numeros))
+print (min(numeros))

@@ -1,0 +1,23 @@
+# nomes = set()
+# nomes.add("let")
+# nomes.add("gabi")
+# nomes.add("luc")
+
+# print(nomes)
+
+
+
+
+
+# def cadastrar_nomes():
+#     contador = 5
+
+#     nomes=set()
+#     while contador >0:
+#         nome = input("digite seu nome: ")
+#         nomes.add(nome)
+#         contador = contador-1
+
+#     print(nomes)
+
+# cadastrar_nomes() 
